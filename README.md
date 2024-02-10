@@ -1,7 +1,7 @@
 # Daily Planner
 
 ## Introduction
-GRADER: I had to restart my repository because i accidentally cloned the starter code and was working from there. i worked with a tutor to get this solved and we just made a neew repo. So that is why i did not have any commits..
+GRADER: I had to restart my repository because i accidentally cloned the starter code and was working from there. i worked with a tutor to get this solved and we just made a new repo. So that is why i did not have any commits..
 This project is a daily planner designed to help users create and manage their schedules efficiently. It provides a user-friendly interface with features such as displaying the current day, time blocks for standard business hours, color-coding for past, present, and future time blocks, event entry, and local storage for saving events.
 
 ## Features
